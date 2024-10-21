@@ -1,82 +1,70 @@
-# 🚀 Praise Jaravani
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Praise+Jaravani!;Software+Engineer...;Digital+Innovator...;Code+Craftsman...;" alt="Typing SVG" />
+</div>
 
-**`Software Engineer | Digital Innovator | Code Craftsman`**
-
----
-
-### 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+<div align="center">
+  <img src="https://img.shields.io/badge/Software Engineer-green?style=for-the-badge" alt="Software Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Digital Innovator-blue?style=for-the-badge" alt="Digital Innovator Badge"/>
+  <img src="https://img.shields.io/badge/Code Craftsman-red?style=for-the-badge" alt="Code Craftsman Badge"/>
+</div>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+<h3 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=praise-jaravani&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,django,flask,c,cs,html,css,typescript,angular,linux" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praise-jaravani&show_icons=true&theme=dark" alt="Praise's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praise-jaravani&theme=dark&layout=compact" alt="Praise's Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praise-jaravani&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Profile Trophy" />
+</div>
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">📊 GitHub Stats 📊</h3>
 
-<details>
-<summary><b>🌱 Food Print Wallet</b></summary>
-<br>
-Digital food supply chain platform for sub-Saharan African farmers.
-<br>
-<a href="https://github.com/praise-jaravani/Foodprint-wallet">📂 Repository</a> | <a href="https://www.foodprintlabs.com/">🔗 Overview</a>
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praise-jaravani&show_icons=true&theme=radical" alt="Praise's GitHub Stats" />
+</div>
 
-<details>
-<summary><b>🗳️ ThunderDome</b></summary>
-<br>
-Blockchain-backed voting system with React frontend.
-<br>
-<a href="https://github.com/ThunderdomeHackathon/ThunderDome_FrontEnd">📂 Frontend</a> | <a href="https://github.com/ThunderdomeHackathon/ThunderDome_SmartContracts">📂 Smart Contracts</a>
-</details>
-
-<details>
-<summary><b>🎨 AI Styler</b></summary>
-<br>
-Web app using DALL-E2 API for image style visualization.
-<br>
-<a href="https://github.com/praise-jaravani/ai-styler-frontend">📂 Repository</a>
-</details>
-
-<details>
-<summary><b>🚀 Space Racer</b></summary>
-<br>
-Unity-based endless runner game set in space.
-<br>
-<a href="https://github.com/praise-jaravani/Game-Jam---Space-Racer">📂 Repository</a>
-</details>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praise-jaravani&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🔗 Connect with me
+<h3 align="center">🚀 Featured Projects 🚀</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/praise-jaravani-80a5451b5/"><img src="https://img.shields.io/badge/-Praise%20Jaravani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jaravanipraise@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/praise-jaravani"><img src="https://img.shields.io/badge/-@praise--jaravani-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-</p>
+<div align="center">
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🌱 Food Print Wallet | Digital food supply chain platform for sub-Saharan African farmers | [📂 Repo](https://github.com/praise-jaravani/Foodprint-wallet) • [🔗 Overview](https://www.foodprintlabs.com/) |
+| 🗳️ ThunderDome | Blockchain-backed voting system with React frontend | [📂 Frontend](https://github.com/ThunderdomeHackathon/ThunderDome_FrontEnd) • [📂 Contracts](https://github.com/ThunderdomeHackathon/ThunderDome_SmartContracts) |
+| 🎨 AI Styler | Web app using DALL-E2 API for image style visualization | [📂 Repo](https://github.com/praise-jaravani/ai-styler-frontend) |
+| 🚀 Space Racer | Unity-based endless runner game set in space | [📂 Repo](https://github.com/praise-jaravani/Game-Jam---Space-Racer) |
+
+</div>
+
+---
+
+<h3 align="center">🔗 Connect with me 🔗</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/praise-jaravani-80a5451b5/"><img src="https://img.shields.io/badge/-Praise%20Jaravani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:jaravanipraise@gmail.com"><img src="https://img.shields.io/badge/-my email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/praise-jaravani"><img src="https://img.shields.io/badge/-@praise--jaravani-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=praise-jaravani&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
